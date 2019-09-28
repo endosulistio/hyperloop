@@ -4,5 +4,5 @@ AUTO VIEW INSTAGRAM
 
 $ git clone https://github.com/indogram/hyperloop<br>
 $ unzip hyperloop.zip<br>
-$ php hyperloop/hyperloop.php<br>
+$ php hyperloop.php<br>
 
